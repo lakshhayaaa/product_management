@@ -32,7 +32,7 @@ This project demonstrates **basic CRUD (Create, Read, Update, Delete)** operatio
 
 ---
 
-## PROJECT SET_UP
+## PROJECT SET-UP
 
 - create virtual environment: python3 -m venv myenv 
 
