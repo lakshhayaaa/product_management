@@ -30,6 +30,8 @@ This project demonstrates **basic CRUD (Create, Read, Update, Delete)** operatio
 - JavaScript (Fetch API / Axios)
 
 
+---
+
 ##PROJECT SET_UP
 -create virtual environment: python3 -m venv myenv 
 
