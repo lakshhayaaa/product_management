@@ -32,11 +32,12 @@ This project demonstrates **basic CRUD (Create, Read, Update, Delete)** operatio
 
 ---
 
-##PROJECT SET_UP
--create virtual environment: python3 -m venv myenv 
+## PROJECT SET_UP
 
-#Backend
--pip3 install fastapi uvicorn sqlalchemy psycopg2-binary
+- create virtual environment: python3 -m venv myenv 
 
-#Frontend
--npm install
+### Backend
+- pip3 install fastapi uvicorn sqlalchemy psycopg2-binary
+
+### Frontend
+- npm install
