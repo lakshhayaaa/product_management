@@ -39,5 +39,12 @@ This project demonstrates **basic CRUD (Create, Read, Update, Delete)** operatio
 ### Backend
 - pip3 install fastapi uvicorn sqlalchemy psycopg2-binary
 
-### Frontend
+### Frontend 
+Node should be installed
 - npm install
+
+---
+## HOW TO RUN?
+
+- Backend: uvicorn main:app --reload
+- Frontend: npm start
